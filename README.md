@@ -26,3 +26,4 @@ The pyroSAR package aims at providing a complete solution for the scalable organ
 
 Head on over to [readthedocs](https://pyrosar.readthedocs.io/en/latest/?badge=latest) for installation instructions,
 examples and API reference.
+Small updates
